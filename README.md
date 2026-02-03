@@ -38,7 +38,7 @@ Desenvolvedor com foco em arquitetura de software, automação de processos e en
 
 ## Contato
 
-- **LinkedIn:** [linkedin.com/in/kaua-januario]([https://www.linkedin.com/in/kaua-januario](https://www.linkedin.com/in/kauajanuario/))
+- **LinkedIn:** [linkedin.com/in/kaua-januario]([https://www.linkedin.com/in/kaua-januario](https://www.linkedin.com/in/kauajanuario)
 - **GitHub:** [github.com/januario42](https://github.com/januario42)
 - **E-mail:** kaua.jds@gmail.com
 - **WhatsApp:** [+55 21 99490-6559](https://wa.me/5521994906559)
